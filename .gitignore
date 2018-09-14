@@ -1,0 +1,41 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/d3-poc/dist
+/d3-poc/tmp
+/d3-poc/out-tsc
+
+# dependencies
+/node_modules
+/d3-poc/node_modules
+
+
+# IDEs and editors
+/d3-poc/.idea
+/d3-poc/.project
+/d3-poc/.classpath
+/d3-poc/.c9/
+/d3-poc/*.launch
+/d3-poc/.settings/
+/d3-poc/*.sublime-workspace
+
+# IDE - VSCode
+/d3-poc/.vscode/*
+/d3-poc/!.vscode/settings.json
+/d3-poc/!.vscode/tasks.json
+/d3-poc/!.vscode/launch.json
+/d3-poc/!.vscode/extensions.json
+
+# misc
+/d3-poc//.sass-cache
+/d3-poc//connect.lock
+/d3-poc//coverage
+/d3-poc//libpeerconnection.log
+/d3-poc/npm-debug.log
+/d3-poc/yarn-error.log
+/d3-poc/testem.log
+/d3-poc/typings
+
+# System Files
+/d3-poc/.DS_Store
+/d3-poc/Thumbs.db
