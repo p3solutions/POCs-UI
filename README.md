@@ -6,8 +6,6 @@ Proof of concepts, implementations in code
 ```
 git remote add upstream https://github.com/Smi0001/POCs-UI.git
 ```
-
-## To uplink with original remote repo, run
 ```
 git checkout master
 ```
