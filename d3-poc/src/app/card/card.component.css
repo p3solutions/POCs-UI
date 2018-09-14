@@ -1,0 +1,8 @@
+.flex-card {
+    height: 500px;
+    width: 500px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    background-color: #ffffff;
+    margin: 5px;
+}

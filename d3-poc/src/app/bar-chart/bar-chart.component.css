@@ -1,0 +1,13 @@
+.bar {
+   fill: green;
+}
+
+.highlight {
+   fill: red;
+}
+ 
+.title {
+   fill: blue;
+   font-weight: bold;
+}
+ 
